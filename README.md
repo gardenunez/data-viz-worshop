@@ -29,3 +29,6 @@ When visualizing something, ask yourself: **What do I want to achieve with the v
 - Boxplot: Representacion de quartiles, maximos, minimos, outliers
 - scatterplot: Cuando hay muchos datos, vista rapida para comparativas. Bird eye
 - Maps
+
+## Reference
+- Todo el material se puede encontrar [aquí](http://javisantana.com/data_vis_workshop/), incluyendo el [código](https://github.com/javisantana/datavis)
